@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetroClient {
 
-    private static final String ROOT_URL = "http://192.168.0.111/upload-file/";
+    private static final String ROOT_URL = "http://hitechwebdesign.net/yeasin/upload-file/";
 
 
     public RetroClient() {
